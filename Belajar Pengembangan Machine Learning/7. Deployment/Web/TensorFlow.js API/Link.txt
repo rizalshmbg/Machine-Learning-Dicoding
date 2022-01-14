@@ -1,0 +1,10 @@
+Source TensorFlow.js API :
+
+root
+https://cdn.jsdelivr.net/npm/@tensorflow/tfjs/dist/
+
+min.js
+https://cdn.jsdelivr.net/npm/@tensorflow/tfjs/dist/tf.min.js
+
+use
+<script src= "https://cdn.jsdelivr.net/npm/@tensorflow/tfjs/dist/tf.min.js"> </script>

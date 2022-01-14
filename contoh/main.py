@@ -1,0 +1,2 @@
+# impor
+import hello2

@@ -1,0 +1,10 @@
+Gunakan package yang didistribusikan package manager seperti npm.
+Jika kita ingin menggunakan aplikasi tersebut tanpa terkoneksi ke internet,
+maka TensorFlow.js harus di-impor langsung melalui npm.
+
+Install TensorFlow.js menggunakan yarn atau npm command:
+1. yarn add @tensorflow/tfjs
+2. npm install @tensorflow/tfjs 
+
+kemudian lakukan import pada package tersebut:
+import * as tf from ‘@tensorflow/tfjs’
